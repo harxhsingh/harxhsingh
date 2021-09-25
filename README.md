@@ -12,3 +12,5 @@ You've came across my profile so far, so lets connect :)
 <!-- 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=harxhsingh) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats)
+[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats)
+

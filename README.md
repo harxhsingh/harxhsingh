@@ -9,5 +9,5 @@ You've came across my profile so far, so lets connect :)
 [![Gmail Badge](https://img.shields.io/badge/hs205393@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hs205393@gmail.com)](mailto:hs205393@gmail.com)
 ![](https://komarev.com/ghpvc/?username=hs205393)
 
-<hr/>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=harxhsingh)

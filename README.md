@@ -4,7 +4,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-HarshSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-singh-7a8318161/)](https://www.linkedin.com/in/sanyathisside/)
+[![Linkedin Badge](https://img.shields.io/badge/-HarshSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-singh-7a8318161/)](https://www.linkedin.com/in/harsh-singh-7a8318161/)
 [![Gmail Badge](https://img.shields.io/badge/-1701sanya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1701sanya@gmail.com)](mailto:1701sanya@gmail.com)
 ![](https://komarev.com/ghpvc/?username=sanya2508)
 

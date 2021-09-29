@@ -1,13 +1,7 @@
 ### Hellooww!<a href="https://github.com/harxhsingh"> Harsh here</a> <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="80">
 Connect with me here :P
 
-A passionate full stack developer from DYP,Pune
 
-🔭 I’m currently working on my Web Development Projects
-
-🌱 I’m currently learning JS frameworks like ExpressJS, React JS and practising Algos
-
-👯 I’m looking to collaborate on front-end and back-end projects
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-HarshSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-singh-7a8318161/)](https://www.linkedin.com/in/harsh-singh-7a8318161/)
@@ -19,3 +13,11 @@ A passionate full stack developer from DYP,Pune
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats)
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats)
  -->
+
+🦾 I'm a passionate full stack developer from DYP,Pune
+
+🔭 I’m currently working on my Web Development Projects
+
+🌱 I’m currently learning JS frameworks like ExpressJS, React JS and practising Algos
+
+👯 I’m looking to collaborate on front-end and back-end projects

@@ -9,10 +9,9 @@ Connect with me here :)
 ![](https://komarev.com/ghpvc/?username=hs205393)
 
  
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=harxhsingh) --> -->
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=harxhsingh) --> 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats) -->
-[![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats)
- -->
+<!-- [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats) -->
 
 <!-- 🦾 I'm a passionate full stack developer from DYP,Pune
 

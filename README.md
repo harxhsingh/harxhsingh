@@ -8,9 +8,9 @@ Connect with me here :)
 [![Gmail Badge](https://img.shields.io/badge/hs205393@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hs205393@gmail.com)](mailto:hs205393@gmail.com)
 ![](https://komarev.com/ghpvc/?username=hs205393)
 
-<!-- 
+ 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=harxhsingh) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats)
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats)
  -->
 

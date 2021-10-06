@@ -11,8 +11,8 @@ Connect with me here :)
 
 🦾 I'm a passionate full stack developer from DYP,Pune
 
-🔭 I’m currently working on my Web Development Projects
+🔭 Currently working on my Web Development Projects
 
-🌱 I’m currently learning front-end frameworks like React JS and practising Algos
+🌱 Learning front-end frameworks like React JS and practising Algos
 
-👯 I’m looking to collaborate on front-end and back-end projects
+👯 Looking forward to collaborate on front-end and back-end techs 

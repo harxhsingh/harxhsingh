@@ -9,10 +9,10 @@ Connect with me here :)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats) -->
 <!-- [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harxhsingh)](https://github.com/harxhsingh/github-readme-stats) -->
 
-<!-- 🦾 I'm a passionate full stack developer from DYP,Pune
+🦾 I'm a passionate full stack developer from DYP,Pune
 
 🔭 I’m currently working on my Web Development Projects
 
-🌱 I’m currently learning JS frameworks like ExpressJS, React JS and practising Algos
+🌱 I’m currently learning front-end frameworks like React JS and practising Algos
 
-👯 I’m looking to collaborate on front-end and back-end projects -->
+👯 I’m looking to collaborate on front-end and back-end projects

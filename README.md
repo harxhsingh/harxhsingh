@@ -1,9 +1,5 @@
 ### Hellooww!<a href="https://github.com/harxhsingh"> Harsh</a> this side<img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="80">
 Connect with me here :)
-
-
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-HarshSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-singh-7a8318161/)](https://www.linkedin.com/in/harsh-singh-7a8318161/)
 [![Gmail Badge](https://img.shields.io/badge/hs205393@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hs205393@gmail.com)](mailto:hs205393@gmail.com)
 ![](https://komarev.com/ghpvc/?username=hs205393)

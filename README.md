@@ -11,7 +11,7 @@ Connect with me here :)
 
 🦾 I'm a passionate web developer from DYP,Pune
 
-🔭 Currently working on my Web Development Projects
+🔭 Currently working on my Web Development Projects 
 
 🌱 Learning front-end frameworks like React JS and practising Algos
 
